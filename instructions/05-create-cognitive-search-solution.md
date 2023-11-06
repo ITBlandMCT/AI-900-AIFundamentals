@@ -75,6 +75,8 @@ You'll need to provision an **Azure AI services** resource that's in the same lo
     - **Performance**: Standard
     - **Redundancy**: Locally redundant storage (LRS)
 
+1. Click **Next: Advanced** and under **Security** select the checkbox for **Allow enabling anonymous access on individual containers**.
+
 1. Click **Review** and then click **Create**. Wait for deployment to complete, and then go to the deployed resource.
 
 1. In the Azure Storage account you created, in the left-hand menu pane, select **Configuration** (under **Settings**).
